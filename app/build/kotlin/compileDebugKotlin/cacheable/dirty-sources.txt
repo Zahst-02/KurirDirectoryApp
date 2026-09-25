@@ -1,0 +1,5 @@
+C:\Users\Zahdazst\.gemini\antigravity\scratch\KurirDirectoryApp\app\src\main\java\com\latihan\kurirdirectoryapp\ApiService.kt
+C:\Users\Zahdazst\.gemini\antigravity\scratch\KurirDirectoryApp\app\src\main\java\com\latihan\kurirdirectoryapp\ApiClient.kt
+C:\Users\Zahdazst\.gemini\antigravity\scratch\KurirDirectoryApp\app\src\main\java\com\latihan\kurirdirectoryapp\UserResponse.kt
+C:\Users\Zahdazst\.gemini\antigravity\scratch\KurirDirectoryApp\app\src\main\java\com\latihan\kurirdirectoryapp\UserAdapter.kt
+C:\Users\Zahdazst\.gemini\antigravity\scratch\KurirDirectoryApp\app\src\main\java\com\latihan\kurirdirectoryapp\MainActivity.kt

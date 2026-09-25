@@ -25,9 +25,9 @@ class UserAdapter(
     override fun onBindViewHolder(holder: UserViewHolder, position: Int) {
         val kurir = daftarKurir[position]
         holder.textViewName.text = kurir.name
-        holder.textViewCompany.text = "Perusahaan: " + $ + {kurir.company.companyName}"
-        holder.textViewEmail.text = "Email: " + $ + {kurir.email}"
-        holder.textViewPhone.text = "Telepon: " + $ + {kurir.phone}"
+        holder.textViewCompany.text = "Perusahaan: ${kurir.company.companyName}"
+        holder.textViewEmail.text = "Email: ${kurir.email}"
+        holder.textViewPhone.text = "Telepon: ${kurir.phone}"
     }
 
     override fun getItemCount(): Int = daftarKurir.size

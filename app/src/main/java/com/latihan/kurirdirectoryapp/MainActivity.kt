@@ -81,14 +81,14 @@ class MainActivity : AppCompatActivity() {
                         // Tampilkan Seluruh Data ke RecyclerView
                         userAdapter.perbaruiDaftar(daftarPenggunaAsli)
                     } else {
-                        textViewErrorMessage.text = "Gagal memuat data dari server (HTTP " + $ + {response.code()})"
+                        textViewErrorMessage.text = "Gagal memuat data dari server (HTTP ${response.code()})"
                         textViewErrorMessage.visibility = View.VISIBLE
                     }
                 }
             } catch (e: Exception) {
                 withContext(Dispatchers.Main) {
                     progressBarLoading.visibility = View.GONE
-                    textViewErrorMessage.text = "Koneksi internet bermasalah: " + $ + {e.localizedMessage ?: "Gagal terhubung"}"
+                    textViewErrorMessage.text = "Koneksi internet bermasalah: ${e.localizedMessage ?: "Gagal terhubung"}"
                     textViewErrorMessage.visibility = View.VISIBLE
                 }
             }

@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+id editTextSearchName
+id main
+id progressBarLoading
+id recyclerViewUsers
+id textViewCompany
+id textViewEmail
+id textViewEmptyState
+id textViewErrorMessage
+id textViewName
+id textViewPhone
+layout activity_main
+layout item_kurir
+string app_name
+style Base.Theme.KurirDirectoryApp
+style Theme.KurirDirectoryApp
+xml backup_rules
+xml data_extraction_rules

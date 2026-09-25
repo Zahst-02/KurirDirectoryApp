@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.latihan.kurirdirectoryapp-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.latihan.kurirdirectoryapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.latihan.kurirdirectoryapp-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.latihan.kurirdirectoryapp-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.latihan.kurirdirectoryapp-merged_res-4:/layout_item_kurir.xml.flat",
+        "source": "com.latihan.kurirdirectoryapp-main-6:/layout/item_kurir.xml"
+    },
+    {
+        "merged": "com.latihan.kurirdirectoryapp-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.latihan.kurirdirectoryapp-main-6:/xml/data_extraction_rules.xml"
+    }
+]
